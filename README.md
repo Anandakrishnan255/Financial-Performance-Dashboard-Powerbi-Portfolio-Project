@@ -2,7 +2,7 @@
 
 This Power BI project analyzes a company's financial dataset to uncover insights related to revenue, profit, sales trends, product performance, and regional growth. It is designed to showcase proficiency in business intelligence skills including data modeling, visualization.
 
-##Project Objectives
+## Project Objectives
 
 Import, clean, and preprocess financial data for reporting.
 
@@ -12,40 +12,40 @@ Provide actionable insights using dynamic and interactive visuals.
 
 Demonstrate Powerbi features including bookmarks, slicers, and navigation buttons.
 
-##Pages in the Dashboard
+## Pages in the Dashboard
 
 1. Financial Performance Overview
 
--KPIs: Total Revenue, Profit, Units Sold
+- KPIs: Total Revenue, Profit, Units Sold
 
--Highlights key business metrics
+- Highlights key business metrics
 
 2. Gross Sales and Profit by Product
 
--Product wise performance using bar and Donut visuals
+- Product wise performance using bar and Donut visuals
 
--Interactive filters by year and segment
+- Interactive filters by year and segment
 
 3. Profit Margin Insights
 
--Visualizes margin trends and outliers
+- Visualizes margin trends and outliers
 
--Identifies high/low profit products
+- Identifies high/low profit products
 
 4. Market Segment and Trend Analysis
 
--Revenue distribution across market segments
+- Revenue distribution across market segments
 
--Filter-enabled comparisons by products
+- Filter-enabled comparisons by products
 
 
-##Insights
+## Insights
 
--The Government segment consistently drives the highest sales figures.
+- The Government segment consistently drives the highest sales figures.
 
--Products like VTT and Carretera generate strong profits across multiple countries.
+- Products like VTT and Carretera generate strong profits across multiple countries.
 
--Profit margins vary significantly by market segment, suggesting areas to improve efficiency.
+- Profit margins vary significantly by market segment, suggesting areas to improve efficiency.
 
 
 
